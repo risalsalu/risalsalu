@@ -14,9 +14,11 @@ I like building secure, clean, and interview-ready apps and testing APIs with **
 - **Frontend:** React, REST APIs, Fetch/Axios
 - **Other:** Git/GitHub, SQL basics
 
-## What I’m learning next
-- Advanced authorization policies, caching, pagination
-- Testing (xUnit) and CI/CD basics
+## What I’m focusing on next
+- Building production-ready APIs with advanced security & role-based policies
+- Implementing caching & pagination for scalable performance
+- Writing automated tests (xUnit) and setting up CI/CD pipelines
+- Strengthening full-stack projects by integrating .NET Core APIs with React frontends
 
 ## Get in touch
 - LinkedIn: *https://www.linkedin.com/in/muhammed-rizal/*
