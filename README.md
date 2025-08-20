@@ -1,4 +1,4 @@
-# Hi, I'm Rizal 👋
+# Hi, I'm Muhammed Rizal 👋
 
 **Aspiring full-stack developer** specializing in **.NET Core** (Web API, Authentication/JWT, DI, Middleware, DTOs, Error Handling) and **React** on the frontend.  
 I like building secure, clean and testing APIs with **Swagger**.
