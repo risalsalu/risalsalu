@@ -1,7 +1,7 @@
 # Hi, I'm Rizal 👋
 
 **Aspiring full-stack developer** specializing in **.NET Core** (Web API, Authentication/JWT, DI, Middleware, DTOs, Error Handling) and **React** on the frontend.  
-I like building secure, clean, and interview-ready apps and testing APIs with **Swagger**.
+I like building secure, clean and testing APIs with **Swagger**.
 
 - 🔭 Current focus: ASP.NET Core APIs + React frontends
 - 🛡️ Topics I enjoy: AuthN/AuthZ (JWT, role-based), middleware, error handling
