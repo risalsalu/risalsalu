@@ -1,8 +1,10 @@
 <h1 align="center">Hi, I'm Muhammed Rizal 👋</h1>
+
 <p align="center">
   <strong>Software Developer</strong> · ASP.NET Core · React · Microservices · FinTech<br/>
   Building secure, scalable, and maintainable enterprise web applications
 </p>
+
 <p align="center">
   <a href="https://muhammedrizalnp.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-rizal.dev-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio" />
@@ -20,37 +22,48 @@
     <img src="https://img.shields.io/badge/GitHub-risalsalu-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
+
 ---
-📋 Table of Contents
-About Me
-Tech Stack
-Work Experience
-Featured Projects
-Key Concepts & Code Patterns
-Project Structure (Typical API)
-Getting Started
-Configuration & Environment Variables
-API Documentation & Usage
-Running Tests
-Docker Support
-Roadmap
-Contributing
-License
-Get in Touch
+
+## 📋 Table of Contents
+
+- [About Me](#-about-me)
+- [Tech Stack](#-tech-stack)
+- [Work Experience](#-work-experience)
+- [Featured Projects](#-featured-projects)
+- [Key Concepts & Code Patterns](#-key-concepts--code-patterns)
+- [Project Structure (Typical API)](#-project-structure-typical-api)
+- [Getting Started](#-getting-started)
+- [Configuration & Environment Variables](#-configuration--environment-variables)
+- [API Documentation & Usage](#-api-documentation--usage)
+- [Running Tests](#-running-tests)
+- [Docker Support](#-docker-support)
+- [Roadmap](#-roadmap)
+- [Contributing](#-contributing)
+- [License](#-license)
+- [Get in Touch](#-get-in-touch)
+
 ---
-👨‍💻 About Me
-I'm a Software Developer with hands-on experience building enterprise-grade web applications across FinTech, SaaS, and e-commerce domains. I specialise in .NET Core backends and React frontends, with a strong focus on microservices architecture, event-driven systems, and secure identity management.
-💼 Currently: Junior Software Developer at Distinct Infotech Solutions — enterprise remittance & forex systems
-🏢 Previously: React–.NET Developer Intern at Bridgeon Solutions LLP
-🏗️ Architecture: Clean Architecture, Microservices, YARP API Gateway, Event-Driven (Kafka)
-🔐 Security: Keycloak, OAuth2, OpenID Connect, JWT, Role-Based Authorization
-⚡ Performance: Redis caching, Dapper, EF Core, async/await patterns
-🎨 Frontend: React 18, Redux Toolkit, Zustand, Tailwind CSS, Framer Motion
-☁️ Cloud & DevOps: Azure, AWS, GCP, Docker, Kubernetes, CI/CD, GitHub Actions
-🌐 Portfolio: muhammedrizalnp.vercel.app
+
+## 👨‍💻 About Me
+
+I'm a **Software Developer** with hands-on experience building enterprise-grade web applications across FinTech, SaaS, and e-commerce domains. I specialise in **.NET Core** backends and **React** frontends, with a strong focus on microservices architecture, event-driven systems, and secure identity management.
+
+- 💼 **Currently:** Junior Software Developer at **Distinct Infotech Solutions** — enterprise remittance & forex systems
+- 🏢 **Previously:** React–.NET Developer Intern at **Bridgeon Solutions LLP**
+- 🏗️ **Architecture:** Clean Architecture, Microservices, YARP API Gateway, Event-Driven (Kafka)
+- 🔐 **Security:** Keycloak, OAuth2, OpenID Connect, JWT, Role-Based Authorization
+- ⚡ **Performance:** Redis caching, Dapper, EF Core, async/await patterns
+- 🎨 **Frontend:** React 18, Redux Toolkit, Zustand, Tailwind CSS, Framer Motion
+- ☁️ **Cloud & DevOps:** Azure, AWS, GCP, Docker, Kubernetes, CI/CD, GitHub Actions
+- 🌐 **Portfolio:** [muhammedrizalnp.vercel.app](https://muhammedrizalnp.vercel.app/)
+
 ---
-🛠 Tech Stack
-Backend
+
+## 🛠 Tech Stack
+
+### Backend
+
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23_.NET_8-512BD4?style=flat&logo=csharp&logoColor=white)
 ![.NET Framework](https://img.shields.io/badge/.NET_Framework_4-512BD4?style=flat&logo=dotnet&logoColor=white)
@@ -60,7 +73,9 @@ Backend
 ![Microservices](https://img.shields.io/badge/Microservices-FF6B35?style=flat)
 ![YARP](https://img.shields.io/badge/YARP_Gateway-512BD4?style=flat)
 ![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=flat)
-Frontend
+
+### Frontend
+
 ![React](https://img.shields.io/badge/React_18-61DAFB?style=flat&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -68,19 +83,25 @@ Frontend
 ![Zustand](https://img.shields.io/badge/Zustand-FF4154?style=flat)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white)
-Data & Streams
+
+### Data & Streams
+
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle_DB-F80000?style=flat&logo=oracle&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
-Security & Identity
+
+### Security & Identity
+
 ![Keycloak](https://img.shields.io/badge/Keycloak-4D9EFF?style=flat)
 ![OAuth2](https://img.shields.io/badge/OAuth_2.0-EB5424?style=flat)
 ![OpenID Connect](https://img.shields.io/badge/OpenID_Connect-F78C40?style=flat)
 ![JWT](https://img.shields.io/badge/JWT_Auth-000000?style=flat&logo=jsonwebtokens&logoColor=white)
-Cloud, DevOps & Tools
+
+### Cloud, DevOps & Tools
+
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
@@ -88,76 +109,113 @@ Cloud, DevOps & Tools
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
+
 ---
-💼 Work Experience
-Junior Software Developer — Distinct Infotech Solutions
+
+## 💼 Work Experience
+
+### Junior Software Developer — Distinct Infotech Solutions
 `Jan 2026 – Present`
-Working on enterprise-level remittance and foreign exchange applications in the FinTech domain.
-Developing and maintaining Casmex — a remittance and forex management platform — using ASP.NET WebForms and .NET Framework 4
-Integrating anti-money laundering (AML) workflows and compliance modules into financial transaction systems
-Performing production debugging, issue resolution, and legacy application enhancements
-Working with Oracle Database, Oracle SQL Developer, ADO.NET, AJAX, and ASP.NET AJAX for backend data operations
-Collaborating with cross-functional teams to ensure secure, optimised financial software delivery
-Stack: `ASP.NET WebForms` · `.NET Framework 4` · `Oracle DB` · `ADO.NET` · `ASP.NET AJAX` · `VB.NET`
+
+Working on enterprise-level **remittance and foreign exchange** applications in the FinTech domain.
+
+- Developing and maintaining **Casmex** — a remittance and forex management platform — using ASP.NET WebForms and .NET Framework 4
+- Integrating **anti-money laundering (AML)** workflows and compliance modules into financial transaction systems
+- Performing production debugging, issue resolution, and legacy application enhancements
+- Working with **Oracle Database**, Oracle SQL Developer, ADO.NET, AJAX, and ASP.NET AJAX for backend data operations
+- Collaborating with cross-functional teams to ensure secure, optimised financial software delivery
+
+**Stack:** `ASP.NET WebForms` · `.NET Framework 4` · `Oracle DB` · `ADO.NET` · `ASP.NET AJAX` · `VB.NET`
+
 ---
-React–.NET Developer Intern — Bridgeon Solutions LLP
+
+### React–.NET Developer Intern — Bridgeon Solutions LLP
 `May 2025 – Dec 2025`
+
 Built full-stack web applications following Clean Architecture and Agile Scrum practices.
-Developed responsive frontend interfaces using React.js, Redux Toolkit, and Tailwind CSS
-Built and integrated RESTful APIs with ASP.NET Core Web API following Clean Architecture principles
-Implemented secure JWT-based authentication and role-based authorization across multiple modules
-Developed optimised database access layers using Entity Framework Core and Dapper
-Participated in sprint planning, code reviews, debugging sessions, and feature delivery within Scrum teams
-Managed source control with Git/GitHub — branching strategies, PRs, and merge workflows
-Stack: `ASP.NET Core` · `React.js` · `EF Core` · `Dapper` · `Redux Toolkit` · `Tailwind CSS` · `JWT` · `SQL Server`
+
+- Developed responsive frontend interfaces using **React.js**, **Redux Toolkit**, and **Tailwind CSS**
+- Built and integrated RESTful APIs with **ASP.NET Core Web API** following Clean Architecture principles
+- Implemented secure **JWT-based authentication** and role-based authorization across multiple modules
+- Developed optimised database access layers using **Entity Framework Core** and **Dapper**
+- Participated in sprint planning, code reviews, debugging sessions, and feature delivery within Scrum teams
+- Managed source control with **Git/GitHub** — branching strategies, PRs, and merge workflows
+
+**Stack:** `ASP.NET Core` · `React.js` · `EF Core` · `Dapper` · `Redux Toolkit` · `Tailwind CSS` · `JWT` · `SQL Server`
+
 ---
-🚀 Featured Projects
-NEXUS — Multi-Vendor Commerce Platform
+
+## 🚀 Featured Projects
+
+### NEXUS — Multi-Vendor Commerce Platform
+
 > Enterprise-grade multi-vendor SaaS e-commerce platform built with microservices architecture
-Layer	Tech
-Frontend	React.js, Tailwind CSS, Framer Motion, Feature-Based Architecture
-Backend	ASP.NET Core Microservices, Clean Architecture
-API Gateway	YARP (Yet Another Reverse Proxy)
-Auth	Keycloak, OAuth2, OpenID Connect, JWT, Role-Based (Admin / Vendor / User)
-Performance	Redis Caching, Apache Kafka (event-driven communication)
-UI	SaaS-style design system, CSS Variables, Glassmorphism
-Highlights:
-Centralised routing and service management via YARP API Gateway
-Event-driven inter-service communication with Apache Kafka
-Scalable feature-based frontend architecture with modular React structure
-Multi-role access control for Admin, Vendor, and Customer personas
+
+| Layer | Tech |
+|---|---|
+| **Frontend** | React.js, Tailwind CSS, Framer Motion, Feature-Based Architecture |
+| **Backend** | ASP.NET Core Microservices, Clean Architecture |
+| **API Gateway** | YARP (Yet Another Reverse Proxy) |
+| **Auth** | Keycloak, OAuth2, OpenID Connect, JWT, Role-Based (Admin / Vendor / User) |
+| **Performance** | Redis Caching, Apache Kafka (event-driven communication) |
+| **UI** | SaaS-style design system, CSS Variables, Glassmorphism |
+
+**Highlights:**
+- Centralised routing and service management via **YARP API Gateway**
+- Event-driven inter-service communication with **Apache Kafka**
+- Scalable **feature-based frontend architecture** with modular React structure
+- Multi-role access control for Admin, Vendor, and Customer personas
+
 ---
-Servexa — Salon & Spa Booking Platform
+
+### Servexa — Salon & Spa Booking Platform
+
 > Full-stack booking platform with multi-role access, built with React and ASP.NET Core
-Layer	Tech
-Frontend	React.js, Tailwind CSS, React Router, Responsive Design
-Backend	ASP.NET Core Web API, Clean Architecture, Dapper
-Auth	JWT, Role-Based Access (Admin / Shop Owner / Customer)
-Database	SQL Server
-Highlights:
-Booking management, user management, and service management modules
-Mobile-first responsive UI optimised for desktop and mobile
-Secure, layered backend with Dapper for high-performance DB access
+
+| Layer | Tech |
+|---|---|
+| **Frontend** | React.js, Tailwind CSS, React Router, Responsive Design |
+| **Backend** | ASP.NET Core Web API, Clean Architecture, Dapper |
+| **Auth** | JWT, Role-Based Access (Admin / Shop Owner / Customer) |
+| **Database** | SQL Server |
+
+**Highlights:**
+- Booking management, user management, and service management modules
+- Mobile-first responsive UI optimised for desktop and mobile
+- Secure, layered backend with **Dapper** for high-performance DB access
+
 ---
-Casmex — Remittance, Forex & Incoming Exchange Software
+
+### Casmex — Remittance, Forex & Incoming Exchange Software
+
 > Enterprise financial transaction processing platform (FinTech)
-Developed and maintained remittance and forex management modules
-Implemented database operations with Oracle Database and ADO.NET
-Enhanced application performance and resolved production issues
-Built using ASP.NET WebForms and .NET Framework 4 for a mature enterprise codebase
+
+- Developed and maintained remittance and forex management modules
+- Implemented database operations with **Oracle Database** and **ADO.NET**
+- Enhanced application performance and resolved production issues
+- Built using **ASP.NET WebForms** and **.NET Framework 4** for a mature enterprise codebase
+
 ---
-iShield — Anti-Money Laundering (AML) Application
+
+### iShield — Anti-Money Laundering (AML) Application
+
 > Compliance and transaction monitoring system integrated with remittance workflows
-Developed AML compliance workflows and transaction monitoring functionalities
-Contributed to secure transaction validation and suspicious activity detection modules
-Maintained and enhanced enterprise financial compliance applications using ASP.NET technologies
+
+- Developed AML compliance workflows and transaction monitoring functionalities
+- Contributed to secure transaction validation and suspicious activity detection modules
+- Maintained and enhanced enterprise financial compliance applications using ASP.NET technologies
+
 ---
-🔑 Key Concepts & Code Patterns
-Clean Architecture — Layered Service Pattern
+
+## 🔑 Key Concepts & Code Patterns
+
+### Clean Architecture — Layered Service Pattern
+
 ```
 Presentation Layer  →  Application Layer  →  Domain Layer  →  Infrastructure Layer
   (Controllers)          (Services/DTOs)        (Entities)         (EF Core / Dapper)
 ```
+
 ```csharp
 // Domain/Entities/Product.cs
 public class Product
@@ -202,13 +260,17 @@ public class ProductService(IProductRepository repo) : IProductService
     }
 }
 ```
+
 ---
-Microservices with YARP API Gateway
+
+### Microservices with YARP API Gateway
+
 ```csharp
 // Gateway/Program.cs
 builder.Services.AddReverseProxy()
     .LoadFromConfig(builder.Configuration.GetSection("ReverseProxy"));
 ```
+
 ```json
 // appsettings.json — YARP routing config
 {
@@ -238,8 +300,11 @@ builder.Services.AddReverseProxy()
   }
 }
 ```
+
 ---
-Apache Kafka — Event-Driven Communication
+
+### Apache Kafka — Event-Driven Communication
+
 ```csharp
 // Infrastructure/Messaging/OrderEventProducer.cs
 public class OrderEventProducer(IProducer<string, string> producer)
@@ -271,8 +336,11 @@ public class OrderCreatedConsumer(IConsumer<string, string> consumer,
     }
 }
 ```
+
 ---
-Redis — Cache-Aside Pattern
+
+### Redis — Cache-Aside Pattern
+
 ```csharp
 // Infrastructure/Cache/CacheService.cs
 public class CacheService(IDistributedCache cache) : ICacheService
@@ -308,8 +376,11 @@ public async Task<ProductDto?> GetByIdAsync(int id)
     return dto;
 }
 ```
+
 ---
-Dapper — High-Performance Data Access
+
+### Dapper — High-Performance Data Access
+
 ```csharp
 // Infrastructure/Repositories/ProductRepository.cs
 public class ProductRepository(IDbConnection db) : IProductRepository
@@ -331,8 +402,11 @@ public class ProductRepository(IDbConnection db) : IProductRepository
             "UPDATE Products SET Name=@Name, Price=@Price, Stock=@Stock WHERE Id=@Id", p) > 0;
 }
 ```
+
 ---
-SignalR — Real-Time Notifications
+
+### SignalR — Real-Time Notifications
+
 ```csharp
 // Hubs/NotificationHub.cs
 public class NotificationHub : Hub
@@ -348,6 +422,7 @@ public class NotificationHub : Hub
 builder.Services.AddSignalR();
 app.MapHub<NotificationHub>("/hubs/notifications");
 ```
+
 ```javascript
 // React client — useNotifications.js
 import { HubConnectionBuilder } from "@microsoft/signalr";
@@ -360,8 +435,11 @@ const connection = new HubConnectionBuilder()
 await connection.start();
 connection.on("ReceiveOrderUpdate", (message) => toast.success(message));
 ```
+
 ---
-Keycloak + OAuth2 / OpenID Connect
+
+### Keycloak + OAuth2 / OpenID Connect
+
 ```csharp
 // Program.cs — Keycloak OIDC setup
 builder.Services
@@ -387,8 +465,11 @@ builder.Services.AddAuthorization(options =>
     options.AddPolicy("Verified",   p => p.RequireAuthenticatedUser());
 });
 ```
+
 ---
-Redux Toolkit — Frontend State Management
+
+### Redux Toolkit — Frontend State Management
+
 ```typescript
 // store/slices/productSlice.ts
 import { createSlice, createAsyncThunk } from "@reduxjs/toolkit";
@@ -422,8 +503,11 @@ const productSlice = createSlice({
 
 export default productSlice.reducer;
 ```
+
 ---
-Axios Interceptors — Automatic Token Attachment & Refresh
+
+### Axios Interceptors — Automatic Token Attachment & Refresh
+
 ```typescript
 // api/axiosInstance.ts
 import axios from "axios";
@@ -454,8 +538,11 @@ api.interceptors.response.use(
 
 export default api;
 ```
+
 ---
-Global Error Handling Middleware
+
+### Global Error Handling Middleware
+
 ```csharp
 // Middleware/ExceptionMiddleware.cs
 public class ExceptionMiddleware(RequestDelegate next, ILogger<ExceptionMiddleware> logger)
@@ -489,8 +576,11 @@ public class ExceptionMiddleware(RequestDelegate next, ILogger<ExceptionMiddlewa
     }
 }
 ```
+
 ---
-Pagination & Filtering
+
+### Pagination & Filtering
+
 ```csharp
 // Application/Common/PagedResult.cs
 public record PagedResult<T>(IEnumerable<T> Items, int TotalCount, int Page, int PageSize)
@@ -513,8 +603,11 @@ public async Task<ActionResult<PagedResult<ProductDto>>> GetAll(
     return Ok(result);
 }
 ```
+
 ---
-📁 Project Structure (Typical API)
+
+## 📁 Project Structure (Typical API)
+
 ```
 MyApi/
 ├── src/
@@ -549,17 +642,25 @@ MyApi/
 ├── Dockerfile
 └── README.md
 ```
+
 ---
-🚀 Getting Started
-Prerequisites
-Tool	Version	Link
-.NET SDK	8.0+	dotnet.microsoft.com
-Node.js	18+	nodejs.org
-SQL Server	2019+ / LocalDB	microsoft.com
-Docker	Latest	docker.com
-Git	Latest	git-scm.com
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+| Tool | Version | Link |
+|---|---|---|
+| .NET SDK | 8.0+ | [dotnet.microsoft.com](https://dotnet.microsoft.com/download) |
+| Node.js | 18+ | [nodejs.org](https://nodejs.org/) |
+| SQL Server | 2019+ / LocalDB | [microsoft.com](https://www.microsoft.com/en-us/sql-server) |
+| Docker | Latest | [docker.com](https://www.docker.com/) |
+| Git | Latest | [git-scm.com](https://git-scm.com/) |
+
 ---
-Backend — Clone & Run
+
+### Backend — Clone & Run
+
 ```bash
 # 1. Clone
 git clone https://github.com/risalsalu/<repo-name>.git
@@ -581,20 +682,29 @@ dotnet ef database update --project src/MyApi.Infrastructure --startup-project s
 # 5. Run
 dotnet run --project src/MyApi.API
 ```
-Endpoint	URL
-API Base	`https://localhost:5001`
-Swagger UI	`https://localhost:5001/swagger`
+
+| Endpoint | URL |
+|---|---|
+| API Base | `https://localhost:5001` |
+| Swagger UI | `https://localhost:5001/swagger` |
+
 ---
-Frontend — Clone & Run
+
+### Frontend — Clone & Run
+
 ```bash
 cd client
 npm install
 cp .env.example .env    # set VITE_API_URL=https://localhost:5001
 npm run dev
 ```
+
 App runs at `http://localhost:5173` (Vite default).
+
 ---
-⚙️ Configuration & Environment Variables
+
+## ⚙️ Configuration & Environment Variables
+
 ```json
 // appsettings.json (non-sensitive defaults)
 {
@@ -617,7 +727,9 @@ App runs at `http://localhost:5173` (Vite default).
   }
 }
 ```
+
 For production, supply values as environment variables using `__` as the key separator:
+
 ```bash
 Jwt__Key=your-production-secret
 ConnectionStrings__DefaultConnection=Server=prod;Database=MyDb;...
@@ -625,11 +737,17 @@ ConnectionStrings__Redis=redis:6379
 Kafka__BootstrapServers=kafka:9092
 Keycloak__Authority=https://auth.yourdomain.com/realms/prod
 ```
+
 > ASP.NET Core automatically maps `__` to `:` in configuration keys.
+
 ---
-📖 API Documentation & Usage
+
+## 📖 API Documentation & Usage
+
 Swagger UI is available in development at `/swagger`. All endpoints include request/response schemas, auth requirements, and example values.
-Authentication Flow
+
+### Authentication Flow
+
 ```http
 POST /api/auth/register
 Content-Type: application/json
@@ -643,21 +761,28 @@ Content-Type: application/json
 GET /api/products
 Authorization: Bearer eyJ...
 ```
-Consistent Error Envelope
+
+### Consistent Error Envelope
+
 ```json
 { "error": "Human-readable error message." }
 ```
-Status	Meaning
-`200 OK`	Success
-`201 Created`	Resource created
-`204 No Content`	Deleted / no body
-`400 Bad Request`	Validation error
-`401 Unauthorized`	Missing / invalid token
-`403 Forbidden`	Insufficient role
-`404 Not Found`	Resource not found
-`500 Internal Server Error`	Unexpected server error
+
+| Status | Meaning |
+|---|---|
+| `200 OK` | Success |
+| `201 Created` | Resource created |
+| `204 No Content` | Deleted / no body |
+| `400 Bad Request` | Validation error |
+| `401 Unauthorized` | Missing / invalid token |
+| `403 Forbidden` | Insufficient role |
+| `404 Not Found` | Resource not found |
+| `500 Internal Server Error` | Unexpected server error |
+
 ---
-🧪 Running Tests
+
+## 🧪 Running Tests
+
 ```bash
 # Run all tests
 dotnet test
@@ -671,7 +796,9 @@ dotnet test tests/MyApi.UnitTests
 # With code coverage (requires coverlet)
 dotnet test --collect:"XPlat Code Coverage"
 ```
-Example — Unit Test with xUnit + Moq
+
+### Example — Unit Test with xUnit + Moq
+
 ```csharp
 public class ProductServiceTests
 {
@@ -709,8 +836,11 @@ public class ProductServiceTests
     }
 }
 ```
+
 ---
-🐳 Docker Support
+
+## 🐳 Docker Support
+
 ```bash
 # Build API image
 docker build -t myapi:latest .
@@ -721,7 +851,9 @@ docker run -p 5001:8080 \
   -e ConnectionStrings__DefaultConnection="Server=db;Database=MyDb;User=sa;Password=YourPass!;" \
   myapi:latest
 ```
-Docker Compose — Full Stack
+
+### Docker Compose — Full Stack
+
 ```bash
 # Spin up all services
 docker compose up -d
@@ -732,46 +864,64 @@ docker compose logs -f api
 # Tear down
 docker compose down -v
 ```
+
 `docker-compose.yml` orchestrates:
-Service	Port	Purpose
-`api`	5001	ASP.NET Core Web API
-`db`	1433	SQL Server 2022
-`redis`	6379	Redis cache
-`kafka`	9092	Apache Kafka broker
-`keycloak`	8080	Keycloak identity server
+
+| Service | Port | Purpose |
+|---|---|---|
+| `api` | 5001 | ASP.NET Core Web API |
+| `db` | 1433 | SQL Server 2022 |
+| `redis` | 6379 | Redis cache |
+| `kafka` | 9092 | Apache Kafka broker |
+| `keycloak` | 8080 | Keycloak identity server |
+
 ---
-📍 Roadmap
-[x] JWT authentication & role-based authorization
-[x] Global error handling middleware
-[x] DTO mapping & clean service layer
-[x] Async repository pattern (EF Core + Dapper)
-[x] Microservices with YARP API Gateway
-[x] Event-driven architecture with Apache Kafka
-[x] Redis caching (cache-aside pattern)
-[x] Keycloak + OAuth2 / OpenID Connect
-[x] SignalR real-time notifications
-[x] Redux Toolkit & Zustand state management
-[ ] Full xUnit + Moq test coverage (>80%)
-[ ] GitHub Actions CI/CD pipeline
-[ ] Docker Compose multi-service orchestration
-[ ] Rate limiting (.NET 8 built-in)
-[ ] Cursor-based pagination
-[ ] Health checks & observability (Prometheus / Grafana)
+
+## 📍 Roadmap
+
+- [x] JWT authentication & role-based authorization
+- [x] Global error handling middleware
+- [x] DTO mapping & clean service layer
+- [x] Async repository pattern (EF Core + Dapper)
+- [x] Microservices with YARP API Gateway
+- [x] Event-driven architecture with Apache Kafka
+- [x] Redis caching (cache-aside pattern)
+- [x] Keycloak + OAuth2 / OpenID Connect
+- [x] SignalR real-time notifications
+- [x] Redux Toolkit & Zustand state management
+- [ ] Full xUnit + Moq test coverage (>80%)
+- [ ] GitHub Actions CI/CD pipeline
+- [ ] Docker Compose multi-service orchestration
+- [ ] Rate limiting (.NET 8 built-in)
+- [ ] Cursor-based pagination
+- [ ] Health checks & observability (Prometheus / Grafana)
+
 ---
-🤝 Contributing
+
+## 🤝 Contributing
+
 Contributions, issues, and feature requests are welcome!
-Fork the repository
-Create a branch: `git checkout -b feature/your-feature`
-Commit with Conventional Commits: `git commit -m "feat: add your feature"`
-Push: `git push origin feature/your-feature`
-Open a Pull Request against `main`
+
+1. **Fork** the repository
+2. **Create** a branch: `git checkout -b feature/your-feature`
+3. **Commit** with [Conventional Commits](https://www.conventionalcommits.org/): `git commit -m "feat: add your feature"`
+4. **Push**: `git push origin feature/your-feature`
+5. **Open** a Pull Request against `main`
+
 Please ensure all new behaviour is covered by tests and PRs stay focused — one feature or fix per PR.
+
 ---
-📄 License
-This project is licensed under the MIT License. See the LICENSE file for details.
+
+## 📄 License
+
+This project is licensed under the **MIT License**. See the [LICENSE](./LICENSE) file for details.
+
 ---
-📬 Get in Touch
+
+## 📬 Get in Touch
+
 I'm actively seeking full-stack .NET developer roles and open to collaboration, feedback, and open-source contributions.
+
 <p>
   <a href="https://muhammedrizalnp.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-rizal.dev-000000?style=flat&logo=vercel&logoColor=white" />
@@ -789,7 +939,9 @@ I'm actively seeking full-stack .NET developer roles and open to collaboration, 
     <img src="https://img.shields.io/badge/GitHub-risalsalu-181717?style=flat&logo=github&logoColor=white" />
   </a>
 </p>
+
 ---
+
 <p align="center">
   <em>Open to full-stack .NET opportunities, collaborations, and code reviews. Let's build something great. 🚀</em>
 </p>
