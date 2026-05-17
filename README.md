@@ -1,676 +1,795 @@
 <h1 align="center">Hi, I'm Muhammed Rizal 👋</h1>
-
 <p align="center">
-  <strong>Backend-Focused Full-Stack Developer</strong><br/>
-  Building secure, scalable, and testable web applications with <strong>.NET Core</strong> & <strong>React</strong>
+  <strong>Software Developer</strong> · ASP.NET Core · React · Microservices · FinTech<br/>
+  Building secure, scalable, and maintainable enterprise web applications
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/.NET-8.0-512BD4?style=flat&logo=dotnet&logoColor=white" alt=".NET 8" />
-  <img src="https://img.shields.io/badge/ASP.NET_Core-Web_API-512BD4?style=flat&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
-  <img src="https://img.shields.io/badge/React-18-61DAFB?style=flat&logo=react&logoColor=black" alt="React 18" />
-  <img src="https://img.shields.io/badge/EF_Core-ORM-512BD4?style=flat&logo=dotnet&logoColor=white" alt="EF Core" />
-  <img src="https://img.shields.io/badge/SQL_Server-Database-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/Swagger-OpenAPI-85EA2D?style=flat&logo=swagger&logoColor=black" alt="Swagger" />
-  <img src="https://img.shields.io/badge/JWT-Auth-000000?style=flat&logo=jsonwebtokens&logoColor=white" alt="JWT" />
-  <img src="https://img.shields.io/badge/xUnit-Testing-5C2D91?style=flat&logo=dotnet&logoColor=white" alt="xUnit" />
-  <img src="https://img.shields.io/badge/Docker-Ready-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/License-MIT-blue?style=flat" alt="MIT License" />
-</p>
-
 <p align="center">
   <a href="https://muhammedrizalnp.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-rizal.dev-0A66C2?style=flat&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-rizal.dev-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/muhammed-rizal/">
+  <a href="https://linkedin.com/in/muhammed-rizal/">
     <img src="https://img.shields.io/badge/LinkedIn-Muhammed_Rizal-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="mailto:mdrizalnp@gmail.com">
     <img src="https://img.shields.io/badge/Email-mdrizalnp@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  &nbsp;
+  <a href="https://github.com/risalsalu">
+    <img src="https://img.shields.io/badge/GitHub-risalsalu-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
-
 ---
-
-## 📋 Table of Contents
-
-- [About Me](#-about-me)
-- [Tech Stack](#-tech-stack)
-- [Current Focus](#-current-focus)
-- [Key Concepts I Work With](#-key-concepts-i-work-with)
-- [Project Structure (Typical API)](#-project-structure-typical-api)
-- [Getting Started](#-getting-started)
-- [Configuration & Environment Variables](#-configuration--environment-variables)
-- [API Documentation & Usage](#-api-documentation--usage)
-- [Running Tests](#-running-tests)
-- [Docker Support](#-docker-support)
-- [Roadmap](#-roadmap)
-- [Contributing](#-contributing)
-- [License](#-license)
-- [Get in Touch](#-get-in-touch)
-
+📋 Table of Contents
+About Me
+Tech Stack
+Work Experience
+Featured Projects
+Key Concepts & Code Patterns
+Project Structure (Typical API)
+Getting Started
+Configuration & Environment Variables
+API Documentation & Usage
+Running Tests
+Docker Support
+Roadmap
+Contributing
+License
+Get in Touch
 ---
-
-## 👨‍💻 About Me
-
-I'm a backend-focused full-stack developer specializing in **.NET Core** Web APIs and **React** frontends. I care deeply about writing secure, maintainable, and well-architected code — from JWT-based authentication flows to clean, layered service architectures.
-
-- 🔭 **Current focus:** Production-grade ASP.NET Core APIs paired with React 18 frontends
-- 🛡️ **Specialties:** AuthN/AuthZ (JWT, role-based policies), middleware pipelines, global error handling
-- ⚙️ **Practices:** Clean Architecture, async/await patterns, DTO mapping, dependency injection
-- 🧪 **Testing & Tooling:** xUnit, Swagger/OpenAPI, Postman, Git/GitHub, GitHub Actions
-- 🎯 **Goal:** Become a job-ready, production-grade full-stack .NET developer
-- 🌐 **Portfolio:** [muhammedrizalnp.vercel.app](https://muhammedrizalnp.vercel.app/)
-
+👨‍💻 About Me
+I'm a Software Developer with hands-on experience building enterprise-grade web applications across FinTech, SaaS, and e-commerce domains. I specialise in .NET Core backends and React frontends, with a strong focus on microservices architecture, event-driven systems, and secure identity management.
+💼 Currently: Junior Software Developer at Distinct Infotech Solutions — enterprise remittance & forex systems
+🏢 Previously: React–.NET Developer Intern at Bridgeon Solutions LLP
+🏗️ Architecture: Clean Architecture, Microservices, YARP API Gateway, Event-Driven (Kafka)
+🔐 Security: Keycloak, OAuth2, OpenID Connect, JWT, Role-Based Authorization
+⚡ Performance: Redis caching, Dapper, EF Core, async/await patterns
+🎨 Frontend: React 18, Redux Toolkit, Zustand, Tailwind CSS, Framer Motion
+☁️ Cloud & DevOps: Azure, AWS, GCP, Docker, Kubernetes, CI/CD, GitHub Actions
+🌐 Portfolio: muhammedrizalnp.vercel.app
 ---
-
-## 🛠 Tech Stack
-
-| Layer | Technologies |
-|---|---|
-| **Backend** | .NET 8, ASP.NET Core Web API, Entity Framework Core 8 |
-| **Frontend** | React 18, Axios / Fetch API, REST integration |
-| **Authentication** | JWT Bearer Tokens, ASP.NET Core Identity, Role-Based Authorization |
-| **Database** | SQL Server (production), SQLite (local dev) |
-| **API Docs** | Swagger / OpenAPI 3.0 |
-| **Testing** | xUnit, Moq, Postman |
-| **DevOps** | Git, GitHub, GitHub Actions (CI/CD), Docker |
-
+🛠 Tech Stack
+Backend
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23_.NET_8-512BD4?style=flat&logo=csharp&logoColor=white)
+![.NET Framework](https://img.shields.io/badge/.NET_Framework_4-512BD4?style=flat&logo=dotnet&logoColor=white)
+![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Dapper](https://img.shields.io/badge/Dapper-ORM-512BD4?style=flat)
+![Web API](https://img.shields.io/badge/REST_APIs-009688?style=flat&logo=fastapi&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-FF6B35?style=flat)
+![YARP](https://img.shields.io/badge/YARP_Gateway-512BD4?style=flat)
+![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=flat)
+Frontend
+![React](https://img.shields.io/badge/React_18-61DAFB?style=flat&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-FF4154?style=flat)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white)
+Data & Streams
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle_DB-F80000?style=flat&logo=oracle&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+Security & Identity
+![Keycloak](https://img.shields.io/badge/Keycloak-4D9EFF?style=flat)
+![OAuth2](https://img.shields.io/badge/OAuth_2.0-EB5424?style=flat)
+![OpenID Connect](https://img.shields.io/badge/OpenID_Connect-F78C40?style=flat)
+![JWT](https://img.shields.io/badge/JWT_Auth-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+Cloud, DevOps & Tools
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
 ---
-
-## 🎯 Current Focus
-
-- 🔐 Building production-ready APIs with advanced security, role-based policies, and refresh token flows
-- ⚡ Implementing response caching and cursor/offset pagination for scalable query performance
-- 🧪 Writing automated unit and integration tests with **xUnit** + **Moq**, and wiring up **GitHub Actions** CI pipelines
-- 🔗 Integrating .NET Core backends with React 18 frontends into cohesive full-stack applications
-- 🐳 Containerising APIs with **Docker** and Docker Compose for reproducible dev environments
-
+💼 Work Experience
+Junior Software Developer — Distinct Infotech Solutions
+`Jan 2026 – Present`
+Working on enterprise-level remittance and foreign exchange applications in the FinTech domain.
+Developing and maintaining Casmex — a remittance and forex management platform — using ASP.NET WebForms and .NET Framework 4
+Integrating anti-money laundering (AML) workflows and compliance modules into financial transaction systems
+Performing production debugging, issue resolution, and legacy application enhancements
+Working with Oracle Database, Oracle SQL Developer, ADO.NET, AJAX, and ASP.NET AJAX for backend data operations
+Collaborating with cross-functional teams to ensure secure, optimised financial software delivery
+Stack: `ASP.NET WebForms` · `.NET Framework 4` · `Oracle DB` · `ADO.NET` · `ASP.NET AJAX` · `VB.NET`
 ---
-
-## 🔑 Key Concepts I Work With
-
-### JWT Authentication
-
-Configuring JWT Bearer authentication in `Program.cs` with full token validation:
-
+React–.NET Developer Intern — Bridgeon Solutions LLP
+`May 2025 – Dec 2025`
+Built full-stack web applications following Clean Architecture and Agile Scrum practices.
+Developed responsive frontend interfaces using React.js, Redux Toolkit, and Tailwind CSS
+Built and integrated RESTful APIs with ASP.NET Core Web API following Clean Architecture principles
+Implemented secure JWT-based authentication and role-based authorization across multiple modules
+Developed optimised database access layers using Entity Framework Core and Dapper
+Participated in sprint planning, code reviews, debugging sessions, and feature delivery within Scrum teams
+Managed source control with Git/GitHub — branching strategies, PRs, and merge workflows
+Stack: `ASP.NET Core` · `React.js` · `EF Core` · `Dapper` · `Redux Toolkit` · `Tailwind CSS` · `JWT` · `SQL Server`
+---
+🚀 Featured Projects
+NEXUS — Multi-Vendor Commerce Platform
+> Enterprise-grade multi-vendor SaaS e-commerce platform built with microservices architecture
+Layer	Tech
+Frontend	React.js, Tailwind CSS, Framer Motion, Feature-Based Architecture
+Backend	ASP.NET Core Microservices, Clean Architecture
+API Gateway	YARP (Yet Another Reverse Proxy)
+Auth	Keycloak, OAuth2, OpenID Connect, JWT, Role-Based (Admin / Vendor / User)
+Performance	Redis Caching, Apache Kafka (event-driven communication)
+UI	SaaS-style design system, CSS Variables, Glassmorphism
+Highlights:
+Centralised routing and service management via YARP API Gateway
+Event-driven inter-service communication with Apache Kafka
+Scalable feature-based frontend architecture with modular React structure
+Multi-role access control for Admin, Vendor, and Customer personas
+---
+Servexa — Salon & Spa Booking Platform
+> Full-stack booking platform with multi-role access, built with React and ASP.NET Core
+Layer	Tech
+Frontend	React.js, Tailwind CSS, React Router, Responsive Design
+Backend	ASP.NET Core Web API, Clean Architecture, Dapper
+Auth	JWT, Role-Based Access (Admin / Shop Owner / Customer)
+Database	SQL Server
+Highlights:
+Booking management, user management, and service management modules
+Mobile-first responsive UI optimised for desktop and mobile
+Secure, layered backend with Dapper for high-performance DB access
+---
+Casmex — Remittance, Forex & Incoming Exchange Software
+> Enterprise financial transaction processing platform (FinTech)
+Developed and maintained remittance and forex management modules
+Implemented database operations with Oracle Database and ADO.NET
+Enhanced application performance and resolved production issues
+Built using ASP.NET WebForms and .NET Framework 4 for a mature enterprise codebase
+---
+iShield — Anti-Money Laundering (AML) Application
+> Compliance and transaction monitoring system integrated with remittance workflows
+Developed AML compliance workflows and transaction monitoring functionalities
+Contributed to secure transaction validation and suspicious activity detection modules
+Maintained and enhanced enterprise financial compliance applications using ASP.NET technologies
+---
+🔑 Key Concepts & Code Patterns
+Clean Architecture — Layered Service Pattern
+```
+Presentation Layer  →  Application Layer  →  Domain Layer  →  Infrastructure Layer
+  (Controllers)          (Services/DTOs)        (Entities)         (EF Core / Dapper)
+```
 ```csharp
-// Program.cs — Registering JWT Bearer Authentication
-builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
+// Domain/Entities/Product.cs
+public class Product
+{
+    public int     Id    { get; set; }
+    public string  Name  { get; set; } = string.Empty;
+    public decimal Price { get; set; }
+    public int     Stock { get; set; }
+}
+
+// Application/DTOs/ProductDto.cs
+public record ProductDto(int Id, string Name, decimal Price, int Stock);
+public record CreateProductDto(string Name, decimal Price, int Stock);
+
+// Application/Interfaces/IProductService.cs
+public interface IProductService
+{
+    Task<IEnumerable<ProductDto>> GetAllAsync();
+    Task<ProductDto?>  GetByIdAsync(int id);
+    Task<ProductDto>   CreateAsync(CreateProductDto dto);
+    Task<bool>         UpdateAsync(int id, CreateProductDto dto);
+    Task<bool>         DeleteAsync(int id);
+}
+
+// Application/Services/ProductService.cs
+public class ProductService(IProductRepository repo) : IProductService
+{
+    public async Task<IEnumerable<ProductDto>> GetAllAsync() =>
+        (await repo.GetAllAsync()).Select(p => new ProductDto(p.Id, p.Name, p.Price, p.Stock));
+
+    public async Task<ProductDto?> GetByIdAsync(int id)
+    {
+        var p = await repo.GetByIdAsync(id);
+        return p is null ? null : new ProductDto(p.Id, p.Name, p.Price, p.Stock);
+    }
+
+    public async Task<ProductDto> CreateAsync(CreateProductDto dto)
+    {
+        var product = new Product { Name = dto.Name, Price = dto.Price, Stock = dto.Stock };
+        await repo.AddAsync(product);
+        return new ProductDto(product.Id, product.Name, product.Price, product.Stock);
+    }
+}
+```
+---
+Microservices with YARP API Gateway
+```csharp
+// Gateway/Program.cs
+builder.Services.AddReverseProxy()
+    .LoadFromConfig(builder.Configuration.GetSection("ReverseProxy"));
+```
+```json
+// appsettings.json — YARP routing config
+{
+  "ReverseProxy": {
+    "Routes": {
+      "products-route": {
+        "ClusterId": "products-cluster",
+        "Match": { "Path": "/api/products/{**catch-all}" }
+      },
+      "orders-route": {
+        "ClusterId": "orders-cluster",
+        "Match": { "Path": "/api/orders/{**catch-all}" }
+      }
+    },
+    "Clusters": {
+      "products-cluster": {
+        "Destinations": {
+          "destination1": { "Address": "http://product-service:8080/" }
+        }
+      },
+      "orders-cluster": {
+        "Destinations": {
+          "destination1": { "Address": "http://order-service:8081/" }
+        }
+      }
+    }
+  }
+}
+```
+---
+Apache Kafka — Event-Driven Communication
+```csharp
+// Infrastructure/Messaging/OrderEventProducer.cs
+public class OrderEventProducer(IProducer<string, string> producer)
+{
+    public async Task PublishOrderCreatedAsync(OrderCreatedEvent evt)
+    {
+        var message = new Message<string, string>
+        {
+            Key   = evt.OrderId.ToString(),
+            Value = JsonSerializer.Serialize(evt)
+        };
+        await producer.ProduceAsync("order-created", message);
+    }
+}
+
+// Infrastructure/Messaging/OrderCreatedConsumer.cs (BackgroundService)
+public class OrderCreatedConsumer(IConsumer<string, string> consumer,
+    INotificationService notifications) : BackgroundService
+{
+    protected override async Task ExecuteAsync(CancellationToken ct)
+    {
+        consumer.Subscribe("order-created");
+        while (!ct.IsCancellationRequested)
+        {
+            var result = consumer.Consume(ct);
+            var evt    = JsonSerializer.Deserialize<OrderCreatedEvent>(result.Message.Value);
+            await notifications.SendOrderConfirmationAsync(evt!);
+        }
+    }
+}
+```
+---
+Redis — Cache-Aside Pattern
+```csharp
+// Infrastructure/Cache/CacheService.cs
+public class CacheService(IDistributedCache cache) : ICacheService
+{
+    public async Task<T?> GetAsync<T>(string key)
+    {
+        var data = await cache.GetStringAsync(key);
+        return data is null ? default : JsonSerializer.Deserialize<T>(data);
+    }
+
+    public async Task SetAsync<T>(string key, T value, TimeSpan? expiry = null)
+    {
+        var options = new DistributedCacheEntryOptions
+        {
+            AbsoluteExpirationRelativeToNow = expiry ?? TimeSpan.FromMinutes(10)
+        };
+        await cache.SetStringAsync(key, JsonSerializer.Serialize(value), options);
+    }
+}
+
+// In a service — cache-aside
+public async Task<ProductDto?> GetByIdAsync(int id)
+{
+    var cacheKey = $"product:{id}";
+    var cached   = await _cache.GetAsync<ProductDto>(cacheKey);
+    if (cached is not null) return cached;
+
+    var product = await _repo.GetByIdAsync(id);
+    if (product is null) return null;
+
+    var dto = new ProductDto(product.Id, product.Name, product.Price, product.Stock);
+    await _cache.SetAsync(cacheKey, dto, TimeSpan.FromMinutes(5));
+    return dto;
+}
+```
+---
+Dapper — High-Performance Data Access
+```csharp
+// Infrastructure/Repositories/ProductRepository.cs
+public class ProductRepository(IDbConnection db) : IProductRepository
+{
+    public async Task<IEnumerable<Product>> GetAllAsync() =>
+        await db.QueryAsync<Product>("SELECT * FROM Products WHERE IsDeleted = 0");
+
+    public async Task<Product?> GetByIdAsync(int id) =>
+        await db.QueryFirstOrDefaultAsync<Product>(
+            "SELECT * FROM Products WHERE Id = @Id AND IsDeleted = 0", new { Id = id });
+
+    public async Task<int> AddAsync(Product p) =>
+        await db.ExecuteScalarAsync<int>(
+            "INSERT INTO Products (Name, Price, Stock) VALUES (@Name, @Price, @Stock); SELECT CAST(SCOPE_IDENTITY() AS INT)",
+            p);
+
+    public async Task<bool> UpdateAsync(Product p) =>
+        await db.ExecuteAsync(
+            "UPDATE Products SET Name=@Name, Price=@Price, Stock=@Stock WHERE Id=@Id", p) > 0;
+}
+```
+---
+SignalR — Real-Time Notifications
+```csharp
+// Hubs/NotificationHub.cs
+public class NotificationHub : Hub
+{
+    public async Task SendOrderUpdate(string userId, string message) =>
+        await Clients.User(userId).SendAsync("ReceiveOrderUpdate", message);
+
+    public async Task JoinGroup(string groupName) =>
+        await Groups.AddToGroupAsync(Context.ConnectionId, groupName);
+}
+
+// Program.cs
+builder.Services.AddSignalR();
+app.MapHub<NotificationHub>("/hubs/notifications");
+```
+```javascript
+// React client — useNotifications.js
+import { HubConnectionBuilder } from "@microsoft/signalr";
+
+const connection = new HubConnectionBuilder()
+  .withUrl("/hubs/notifications", { accessTokenFactory: () => getToken() })
+  .withAutomaticReconnect()
+  .build();
+
+await connection.start();
+connection.on("ReceiveOrderUpdate", (message) => toast.success(message));
+```
+---
+Keycloak + OAuth2 / OpenID Connect
+```csharp
+// Program.cs — Keycloak OIDC setup
+builder.Services
+    .AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
     .AddJwtBearer(options =>
     {
+        options.Authority            = builder.Configuration["Keycloak:Authority"];
+        options.Audience             = builder.Configuration["Keycloak:Audience"];
+        options.RequireHttpsMetadata = false; // true in production
         options.TokenValidationParameters = new TokenValidationParameters
         {
-            ValidateIssuer           = true,
-            ValidateAudience         = true,
-            ValidateLifetime         = true,
-            ValidateIssuerSigningKey = true,
-            ValidIssuer              = builder.Configuration["Jwt:Issuer"],
-            ValidAudience            = builder.Configuration["Jwt:Audience"],
-            IssuerSigningKey         = new SymmetricSecurityKey(
-                Encoding.UTF8.GetBytes(builder.Configuration["Jwt:Key"]!))
+            ValidateIssuer    = true,
+            ValidateAudience  = true,
+            ValidateLifetime  = true,
+            RoleClaimType     = "realm_access.roles"
         };
     });
-```
 
-Generating a signed JWT token inside a service:
-
-```csharp
-// Services/TokenService.cs
-public string GenerateToken(AppUser user, IList<string> roles)
+builder.Services.AddAuthorization(options =>
 {
-    var claims = new List<Claim>
-    {
-        new(ClaimTypes.NameIdentifier, user.Id),
-        new(ClaimTypes.Email, user.Email!),
-    };
-    claims.AddRange(roles.Select(r => new Claim(ClaimTypes.Role, r)));
-
-    var key   = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_config["Jwt:Key"]!));
-    var creds = new SigningCredentials(key, SecurityAlgorithms.HmacSha256);
-
-    var token = new JwtSecurityToken(
-        issuer:             _config["Jwt:Issuer"],
-        audience:           _config["Jwt:Audience"],
-        claims:             claims,
-        expires:            DateTime.UtcNow.AddHours(1),
-        signingCredentials: creds
-    );
-
-    return new JwtSecurityTokenHandler().WriteToken(token);
-}
+    options.AddPolicy("AdminOnly",  p => p.RequireRole("admin"));
+    options.AddPolicy("VendorOnly", p => p.RequireRole("vendor"));
+    options.AddPolicy("Verified",   p => p.RequireAuthenticatedUser());
+});
 ```
-
 ---
+Redux Toolkit — Frontend State Management
+```typescript
+// store/slices/productSlice.ts
+import { createSlice, createAsyncThunk } from "@reduxjs/toolkit";
+import { productApi } from "@/api/productApi";
 
-### Role-Based Authorization
+export const fetchProducts = createAsyncThunk(
+  "products/fetchAll",
+  async (_, { rejectWithValue }) => {
+    try {
+      const { data } = await productApi.getAll();
+      return data;
+    } catch (err: any) {
+      return rejectWithValue(err.response?.data?.error ?? "Failed to fetch");
+    }
+  }
+);
 
-Protecting endpoints using `[Authorize]` with role constraints:
+const productSlice = createSlice({
+  name: "products",
+  initialState: { items: [], loading: false, error: null as string | null },
+  reducers: {
+    clearProducts: (state) => { state.items = []; }
+  },
+  extraReducers: (builder) => {
+    builder
+      .addCase(fetchProducts.pending,   (s) => { s.loading = true;  s.error = null; })
+      .addCase(fetchProducts.fulfilled, (s, a) => { s.loading = false; s.items = a.payload; })
+      .addCase(fetchProducts.rejected,  (s, a) => { s.loading = false; s.error = a.payload as string; });
+  }
+});
 
-```csharp
-// Controllers/UsersController.cs
-
-[Authorize(Roles = "Admin")]
-[HttpDelete("{id}")]
-public async Task<IActionResult> DeleteUser(int id)
-{
-    var success = await _userService.DeleteAsync(id);
-    if (!success) return NotFound();
-    return NoContent();  // 204
-}
-
-[Authorize(Roles = "Admin,Manager")]
-[HttpPut("{id}")]
-public async Task<IActionResult> UpdateUser(int id, UpdateUserDto dto) { /* ... */ }
-
-[Authorize]  // Any authenticated user
-[HttpGet("me")]
-public async Task<ActionResult<UserDto>> GetCurrentUser() { /* ... */ }
+export default productSlice.reducer;
 ```
-
 ---
+Axios Interceptors — Automatic Token Attachment & Refresh
+```typescript
+// api/axiosInstance.ts
+import axios from "axios";
+import { getToken, refreshToken, clearAuth } from "@/utils/auth";
 
-### Global Error Handling Middleware
+const api = axios.create({ baseURL: import.meta.env.VITE_API_URL });
 
-Catching unhandled exceptions across the entire pipeline and returning a consistent JSON error envelope:
+api.interceptors.request.use((config) => {
+  const token = getToken();
+  if (token) config.headers.Authorization = `Bearer ${token}`;
+  return config;
+});
 
+api.interceptors.response.use(
+  (res) => res,
+  async (error) => {
+    const original = error.config;
+    if (error.response?.status === 401 && !original._retry) {
+      original._retry = true;
+      const newToken = await refreshToken();
+      original.headers.Authorization = `Bearer ${newToken}`;
+      return api(original);
+    }
+    if (error.response?.status === 403) clearAuth();
+    return Promise.reject(error);
+  }
+);
+
+export default api;
+```
+---
+Global Error Handling Middleware
 ```csharp
 // Middleware/ExceptionMiddleware.cs
 public class ExceptionMiddleware(RequestDelegate next, ILogger<ExceptionMiddleware> logger)
 {
     public async Task InvokeAsync(HttpContext context)
     {
-        try
-        {
-            await next(context);
-        }
+        try { await next(context); }
         catch (NotFoundException ex)
         {
             logger.LogWarning(ex, "Resource not found");
-            context.Response.StatusCode  = StatusCodes.Status404NotFound;
-            context.Response.ContentType = "application/json";
-            await context.Response.WriteAsJsonAsync(new { error = ex.Message });
+            await WriteErrorAsync(context, StatusCodes.Status404NotFound, ex.Message);
+        }
+        catch (UnauthorizedAccessException ex)
+        {
+            logger.LogWarning(ex, "Unauthorized access");
+            await WriteErrorAsync(context, StatusCodes.Status401Unauthorized, ex.Message);
         }
         catch (Exception ex)
         {
             logger.LogError(ex, "Unhandled exception");
-            context.Response.StatusCode  = StatusCodes.Status500InternalServerError;
-            context.Response.ContentType = "application/json";
-            await context.Response.WriteAsJsonAsync(new { error = "An unexpected error occurred." });
+            await WriteErrorAsync(context, StatusCodes.Status500InternalServerError,
+                "An unexpected error occurred.");
         }
     }
-}
-```
 
-Register it early in the middleware pipeline:
-
-```csharp
-// Program.cs
-app.UseMiddleware<ExceptionMiddleware>();
-app.UseAuthentication();
-app.UseAuthorization();
-```
-
----
-
-### DTO Mapping Pattern
-
-Keeping domain models internal and exposing only clean, shaped DTOs:
-
-```csharp
-// DTOs/UserDto.cs
-public record UserDto(int Id, string Name, string Email);
-public record CreateUserDto(string Name, string Email, string Password);
-public record UpdateUserDto(string? Name, string? Email);
-
-// Services/UserService.cs
-public async Task<UserDto?> GetByIdAsync(int id)
-{
-    var user = await _context.Users.FindAsync(id);
-    return user is null ? null : new UserDto(user.Id, user.Name, user.Email);
-}
-
-public async Task<UserDto> CreateAsync(CreateUserDto dto)
-{
-    var user = new User { Name = dto.Name, Email = dto.Email };
-    _context.Users.Add(user);
-    await _context.SaveChangesAsync();
-    return new UserDto(user.Id, user.Name, user.Email);
-}
-```
-
----
-
-### Async Repository Pattern
-
-Abstracting data access behind interfaces for testability:
-
-```csharp
-// Interfaces/IUserRepository.cs
-public interface IUserRepository
-{
-    Task<User?> GetByIdAsync(int id);
-    Task<IEnumerable<User>> GetAllAsync();
-    Task<User> AddAsync(User user);
-    Task DeleteAsync(int id);
-}
-
-// Data/Repositories/UserRepository.cs
-public class UserRepository(AppDbContext context) : IUserRepository
-{
-    public async Task<User?> GetByIdAsync(int id) =>
-        await context.Users.FindAsync(id);
-
-    public async Task<IEnumerable<User>> GetAllAsync() =>
-        await context.Users.AsNoTracking().ToListAsync();
-
-    public async Task<User> AddAsync(User user)
+    private static Task WriteErrorAsync(HttpContext ctx, int statusCode, string message)
     {
-        context.Users.Add(user);
-        await context.SaveChangesAsync();
-        return user;
-    }
-
-    public async Task DeleteAsync(int id)
-    {
-        var user = await GetByIdAsync(id);
-        if (user is not null)
-        {
-            context.Users.Remove(user);
-            await context.SaveChangesAsync();
-        }
+        ctx.Response.StatusCode  = statusCode;
+        ctx.Response.ContentType = "application/json";
+        return ctx.Response.WriteAsJsonAsync(new { error = message });
     }
 }
 ```
-
-Register with DI:
-
-```csharp
-// Program.cs
-builder.Services.AddScoped<IUserRepository, UserRepository>();
-builder.Services.AddScoped<IUserService, UserService>();
-```
-
 ---
+Pagination & Filtering
+```csharp
+// Application/Common/PagedResult.cs
+public record PagedResult<T>(IEnumerable<T> Items, int TotalCount, int Page, int PageSize)
+{
+    public int  TotalPages => (int)Math.Ceiling((double)TotalCount / PageSize);
+    public bool HasNext    => Page < TotalPages;
+    public bool HasPrev    => Page > 1;
+}
 
-## 📁 Project Structure (Typical API)
-
+// Controllers/ProductsController.cs
+[HttpGet]
+public async Task<ActionResult<PagedResult<ProductDto>>> GetAll(
+    [FromQuery] int     page     = 1,
+    [FromQuery] int     pageSize = 10,
+    [FromQuery] string? search   = null,
+    [FromQuery] string? sortBy   = "name",
+    [FromQuery] bool    desc     = false)
+{
+    var result = await _productService.GetPagedAsync(page, pageSize, search, sortBy, desc);
+    return Ok(result);
+}
+```
+---
+📁 Project Structure (Typical API)
 ```
 MyApi/
-├── Controllers/              # HTTP endpoints — thin, delegate to services
-│   └── UsersController.cs
-├── DTOs/                     # Request/response shapes (records or classes)
-│   ├── UserDto.cs
-│   ├── CreateUserDto.cs
-│   └── UpdateUserDto.cs
-├── Middleware/               # Custom pipeline middleware
-│   └── ExceptionMiddleware.cs
-├── Models/                   # EF Core entity models
-│   └── User.cs
-├── Services/                 # Business logic layer
-│   ├── Interfaces/
-│   │   └── IUserService.cs
-│   └── UserService.cs
-├── Data/                     # EF Core DbContext and migrations
-│   ├── AppDbContext.cs
-│   ├── Repositories/
-│   │   └── UserRepository.cs
-│   └── Migrations/
-├── appsettings.json          # Base configuration
-├── appsettings.Development.json
-└── Program.cs                # App entry point, DI registration, middleware pipeline
+├── src/
+│   ├── MyApi.API/                    # Presentation layer
+│   │   ├── Controllers/              # Thin HTTP endpoints — delegate to services
+│   │   ├── Middleware/               # Exception handling, logging, rate-limiting
+│   │   └── Program.cs                # Entry point, DI registration, middleware pipeline
+│   │
+│   ├── MyApi.Application/            # Application layer (business logic)
+│   │   ├── DTOs/                     # Request/response shapes
+│   │   ├── Interfaces/               # Service & repository contracts
+│   │   ├── Services/                 # Business logic implementations
+│   │   └── Common/                   # PagedResult, Result<T>, custom exceptions
+│   │
+│   ├── MyApi.Domain/                 # Domain layer (pure C#, no framework dependencies)
+│   │   ├── Entities/                 # EF Core / domain models
+│   │   └── Enums/
+│   │
+│   └── MyApi.Infrastructure/         # Infrastructure layer
+│       ├── Data/
+│       │   ├── AppDbContext.cs
+│       │   ├── Repositories/         # EF Core or Dapper implementations
+│       │   └── Migrations/
+│       ├── Cache/                    # Redis cache service
+│       └── Messaging/                # Kafka producers & consumers
+│
+├── tests/
+│   ├── MyApi.UnitTests/              # xUnit + Moq unit tests
+│   └── MyApi.IntegrationTests/       # WebApplicationFactory integration tests
+│
+├── docker-compose.yml
+├── Dockerfile
+└── README.md
 ```
-
 ---
-
-## 🚀 Getting Started
-
-### Prerequisites
-
-Make sure the following are installed before cloning:
-
-| Tool | Version | Link |
-|---|---|---|
-| .NET SDK | 8.0+ | [dotnet.microsoft.com](https://dotnet.microsoft.com/download) |
-| Node.js | 18+ | [nodejs.org](https://nodejs.org/) |
-| SQL Server | 2019+ or LocalDB | [microsoft.com/sql-server](https://www.microsoft.com/en-us/sql-server) |
-| Git | Latest | [git-scm.com](https://git-scm.com/) |
-| Docker (optional) | Latest | [docker.com](https://www.docker.com/) |
-
+🚀 Getting Started
+Prerequisites
+Tool	Version	Link
+.NET SDK	8.0+	dotnet.microsoft.com
+Node.js	18+	nodejs.org
+SQL Server	2019+ / LocalDB	microsoft.com
+Docker	Latest	docker.com
+Git	Latest	git-scm.com
 ---
-
-### Backend — Clone & Run
-
+Backend — Clone & Run
 ```bash
-# 1. Clone the repository
-git clone https://github.com/muhammed-rizal/<repo-name>.git
+# 1. Clone
+git clone https://github.com/risalsalu/<repo-name>.git
 cd <repo-name>
 
 # 2. Restore NuGet packages
 dotnet restore
 
-# 3. Set up user secrets (see Configuration section)
-dotnet user-secrets set "Jwt:Key" "your-super-secret-key-min-32-chars"
-dotnet user-secrets set "ConnectionStrings:DefaultConnection" "your-connection-string"
+# 3. Set up local secrets
+dotnet user-secrets init --project src/MyApi.API
+dotnet user-secrets set "Jwt:Key" "your-super-secret-key-min-32-chars" --project src/MyApi.API
+dotnet user-secrets set "ConnectionStrings:DefaultConnection" \
+  "Server=localhost;Database=MyDb;Trusted_Connection=True;TrustServerCertificate=True;" \
+  --project src/MyApi.API
 
-# 4. Apply EF Core migrations and seed the database
-dotnet ef database update
+# 4. Apply EF Core migrations
+dotnet ef database update --project src/MyApi.Infrastructure --startup-project src/MyApi.API
 
-# 5. Run the API
-dotnet run --project src/MyApi
+# 5. Run
+dotnet run --project src/MyApi.API
 ```
-
-The API will be available at:
-- **HTTPS:** `https://localhost:5001`
-- **Swagger UI:** `https://localhost:5001/swagger`
-
+Endpoint	URL
+API Base	`https://localhost:5001`
+Swagger UI	`https://localhost:5001/swagger`
 ---
-
-### Frontend — Clone & Run
-
+Frontend — Clone & Run
 ```bash
-# Navigate to the client directory
 cd client
-
-# Install npm dependencies
 npm install
-
-# Start the development server
+cp .env.example .env    # set VITE_API_URL=https://localhost:5001
 npm run dev
 ```
-
-The React app will be available at `http://localhost:5173` (Vite default).
-
+App runs at `http://localhost:5173` (Vite default).
 ---
-
-## ⚙️ Configuration & Environment Variables
-
-This project uses `appsettings.json` for base config and `dotnet user-secrets` for sensitive local values. **Never commit secrets to source control.**
-
-### `appsettings.json` (non-sensitive defaults)
-
+⚙️ Configuration & Environment Variables
 ```json
+// appsettings.json (non-sensitive defaults)
 {
   "Jwt": {
     "Key":      "",
     "Issuer":   "https://localhost:5001",
     "Audience": "https://localhost:5173"
   },
-  "ConnectionStrings": {
-    "DefaultConnection": ""
+  "Keycloak": {
+    "Authority": "http://localhost:8080/realms/my-realm",
+    "Audience":  "my-api-client"
   },
-  "Logging": {
-    "LogLevel": {
-      "Default":               "Information",
-      "Microsoft.AspNetCore":  "Warning"
-    }
+  "ConnectionStrings": {
+    "DefaultConnection": "",
+    "Redis": "localhost:6379"
+  },
+  "Kafka": {
+    "BootstrapServers": "localhost:9092",
+    "GroupId": "my-api-group"
   }
 }
 ```
-
-### Local Development — `dotnet user-secrets`
-
-```bash
-# Initialise user secrets for the project (one-time)
-dotnet user-secrets init --project src/MyApi
-
-# Set secrets
-dotnet user-secrets set "Jwt:Key"      "your-256-bit-secret-min-32-chars"  --project src/MyApi
-dotnet user-secrets set "Jwt:Issuer"   "https://localhost:5001"              --project src/MyApi
-dotnet user-secrets set "Jwt:Audience" "https://localhost:5173"              --project src/MyApi
-dotnet user-secrets set "ConnectionStrings:DefaultConnection" \
-  "Server=localhost;Database=MyDb;Trusted_Connection=True;TrustServerCertificate=True;" \
-  --project src/MyApi
-
-# List all secrets
-dotnet user-secrets list --project src/MyApi
-```
-
-### Production — Environment Variables
-
-In CI/CD or production hosting (Azure App Service, Railway, etc.), supply values as environment variables:
-
+For production, supply values as environment variables using `__` as the key separator:
 ```bash
 Jwt__Key=your-production-secret
-Jwt__Issuer=https://api.yourdomain.com
-Jwt__Audience=https://yourdomain.com
-ConnectionStrings__DefaultConnection=Server=prod-server;Database=MyDb;...
+ConnectionStrings__DefaultConnection=Server=prod;Database=MyDb;...
+ConnectionStrings__Redis=redis:6379
+Kafka__BootstrapServers=kafka:9092
+Keycloak__Authority=https://auth.yourdomain.com/realms/prod
 ```
-
-> **Note:** ASP.NET Core maps double-underscore `__` to the colon `:` separator in configuration keys.
-
+> ASP.NET Core automatically maps `__` to `:` in configuration keys.
 ---
-
-## 📖 API Documentation & Usage
-
-Swagger UI is enabled in development at `/swagger`. All endpoints are documented with request/response schemas.
-
-### Authentication Flow
-
-**1. Register**
-
+📖 API Documentation & Usage
+Swagger UI is available in development at `/swagger`. All endpoints include request/response schemas, auth requirements, and example values.
+Authentication Flow
 ```http
 POST /api/auth/register
 Content-Type: application/json
+{ "name": "Jane Doe", "email": "jane@example.com", "password": "P@ssw0rd!" }
 
-{
-  "name":     "John Doe",
-  "email":    "john@example.com",
-  "password": "P@ssw0rd123!"
-}
-```
-
-**2. Login — receive JWT**
-
-```http
 POST /api/auth/login
 Content-Type: application/json
+{ "email": "jane@example.com", "password": "P@ssw0rd!" }
+→ { "token": "eyJ...", "expiresAt": "2025-08-01T12:00:00Z" }
 
-{
-  "email":    "john@example.com",
-  "password": "P@ssw0rd123!"
-}
+GET /api/products
+Authorization: Bearer eyJ...
 ```
-
-Response:
-
+Consistent Error Envelope
 ```json
-{
-  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...",
-  "expiresAt": "2025-07-01T12:00:00Z"
-}
+{ "error": "Human-readable error message." }
 ```
-
-**3. Call protected endpoints**
-
-```http
-GET /api/users/me
-Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...
-```
-
-### Example — CRUD Endpoints
-
-```http
-GET    /api/users          # Get all users (Admin only)
-GET    /api/users/{id}     # Get user by ID (Authenticated)
-POST   /api/users          # Create user   (Admin only)
-PUT    /api/users/{id}     # Update user   (Admin, Manager)
-DELETE /api/users/{id}     # Delete user   (Admin only)
-```
-
-All error responses follow a consistent envelope:
-
-```json
-{
-  "error": "Human-readable error message."
-}
-```
-
+Status	Meaning
+`200 OK`	Success
+`201 Created`	Resource created
+`204 No Content`	Deleted / no body
+`400 Bad Request`	Validation error
+`401 Unauthorized`	Missing / invalid token
+`403 Forbidden`	Insufficient role
+`404 Not Found`	Resource not found
+`500 Internal Server Error`	Unexpected server error
 ---
-
-## 🧪 Running Tests
-
-Tests are written with **xUnit** and **Moq**. All test projects live under the `tests/` directory.
-
+🧪 Running Tests
 ```bash
 # Run all tests
 dotnet test
 
-# Run with detailed output
+# Verbose output
 dotnet test --verbosity normal
 
-# Run a specific test project
-dotnet test tests/MyApi.Tests
+# Specific project
+dotnet test tests/MyApi.UnitTests
 
-# Run with code coverage (requires coverlet)
+# With code coverage (requires coverlet)
 dotnet test --collect:"XPlat Code Coverage"
 ```
-
-### Example — Unit Test
-
+Example — Unit Test with xUnit + Moq
 ```csharp
-// tests/MyApi.Tests/Services/UserServiceTests.cs
-public class UserServiceTests
+public class ProductServiceTests
 {
-    private readonly Mock<IUserRepository> _repoMock = new();
-    private readonly UserService _sut;
+    private readonly Mock<IProductRepository> _repoMock = new();
+    private readonly ProductService _sut;
 
-    public UserServiceTests()
-    {
-        _sut = new UserService(_repoMock.Object);
-    }
+    public ProductServiceTests() =>
+        _sut = new(_repoMock.Object, Mock.Of<ICacheService>());
 
     [Fact]
-    public async Task GetByIdAsync_ReturnsNull_WhenUserNotFound()
+    public async Task GetByIdAsync_ReturnsNull_WhenProductNotFound()
     {
-        // Arrange
-        _repoMock.Setup(r => r.GetByIdAsync(999)).ReturnsAsync((User?)null);
-
-        // Act
+        _repoMock.Setup(r => r.GetByIdAsync(999)).ReturnsAsync((Product?)null);
         var result = await _sut.GetByIdAsync(999);
-
-        // Assert
         Assert.Null(result);
     }
 
     [Fact]
-    public async Task GetByIdAsync_ReturnsUserDto_WhenUserExists()
+    public async Task GetByIdAsync_ReturnsDto_WhenProductExists()
     {
-        // Arrange
-        var user = new User { Id = 1, Name = "Alice", Email = "alice@example.com" };
-        _repoMock.Setup(r => r.GetByIdAsync(1)).ReturnsAsync(user);
-
-        // Act
+        var product = new Product { Id = 1, Name = "Widget", Price = 9.99m, Stock = 50 };
+        _repoMock.Setup(r => r.GetByIdAsync(1)).ReturnsAsync(product);
         var result = await _sut.GetByIdAsync(1);
-
-        // Assert
         Assert.NotNull(result);
-        Assert.Equal("Alice", result.Name);
+        Assert.Equal("Widget", result.Name);
+    }
+
+    [Theory]
+    [InlineData(0)]
+    [InlineData(-1)]
+    public async Task CreateAsync_ThrowsValidationException_WhenPriceInvalid(decimal price)
+    {
+        var dto = new CreateProductDto("Widget", price, 10);
+        await Assert.ThrowsAsync<ValidationException>(() => _sut.CreateAsync(dto));
     }
 }
 ```
-
 ---
-
-## 🐳 Docker Support
-
-A `Dockerfile` and `docker-compose.yml` are included for containerised local development.
-
-### Build & Run with Docker
-
+🐳 Docker Support
 ```bash
-# Build the API image
+# Build API image
 docker build -t myapi:latest .
 
-# Run the container
+# Run with environment injection
 docker run -p 5001:8080 \
   -e Jwt__Key="your-secret" \
-  -e ConnectionStrings__DefaultConnection="your-conn-string" \
+  -e ConnectionStrings__DefaultConnection="Server=db;Database=MyDb;User=sa;Password=YourPass!;" \
   myapi:latest
 ```
-
-### Docker Compose (API + SQL Server)
-
+Docker Compose — Full Stack
 ```bash
-# Start all services
+# Spin up all services
 docker compose up -d
 
-# View logs
+# Follow API logs
 docker compose logs -f api
 
-# Stop and remove containers
-docker compose down
+# Tear down
+docker compose down -v
 ```
-
-`docker-compose.yml` spins up:
-- `api` — ASP.NET Core Web API on port `5001`
-- `db`  — SQL Server 2022 on port `1433`
-
-> Refer to `docker-compose.yml` in the repository root for the full configuration.
-
+`docker-compose.yml` orchestrates:
+Service	Port	Purpose
+`api`	5001	ASP.NET Core Web API
+`db`	1433	SQL Server 2022
+`redis`	6379	Redis cache
+`kafka`	9092	Apache Kafka broker
+`keycloak`	8080	Keycloak identity server
 ---
-
-## 📍 Roadmap
-
-- [x] JWT authentication & role-based authorization
-- [x] Global error handling middleware
-- [x] DTO mapping & clean service layer
-- [x] Async repository pattern with dependency injection
-- [ ] Pagination & filtering (offset + cursor)
-- [ ] Response caching with `IMemoryCache`
-- [ ] xUnit + Moq unit test coverage (>80%)
-- [ ] GitHub Actions CI/CD pipeline
-- [ ] Docker & Docker Compose support
-- [ ] Refresh token flow
-- [ ] Rate limiting middleware (.NET 8 built-in)
-
+📍 Roadmap
+[x] JWT authentication & role-based authorization
+[x] Global error handling middleware
+[x] DTO mapping & clean service layer
+[x] Async repository pattern (EF Core + Dapper)
+[x] Microservices with YARP API Gateway
+[x] Event-driven architecture with Apache Kafka
+[x] Redis caching (cache-aside pattern)
+[x] Keycloak + OAuth2 / OpenID Connect
+[x] SignalR real-time notifications
+[x] Redux Toolkit & Zustand state management
+[ ] Full xUnit + Moq test coverage (>80%)
+[ ] GitHub Actions CI/CD pipeline
+[ ] Docker Compose multi-service orchestration
+[ ] Rate limiting (.NET 8 built-in)
+[ ] Cursor-based pagination
+[ ] Health checks & observability (Prometheus / Grafana)
 ---
-
-## 🤝 Contributing
-
+🤝 Contributing
 Contributions, issues, and feature requests are welcome!
-
-1. **Fork** the repository
-2. **Create** a feature branch: `git checkout -b feature/your-feature-name`
-3. **Commit** your changes: `git commit -m "feat: add your feature"`
-4. **Push** to the branch: `git push origin feature/your-feature-name`
-5. **Open** a Pull Request against `main`
-
-Please follow these conventions:
-- Use [Conventional Commits](https://www.conventionalcommits.org/) for commit messages
-- Add or update tests for any new behaviour
-- Keep PRs focused — one feature or fix per PR
-
+Fork the repository
+Create a branch: `git checkout -b feature/your-feature`
+Commit with Conventional Commits: `git commit -m "feat: add your feature"`
+Push: `git push origin feature/your-feature`
+Open a Pull Request against `main`
+Please ensure all new behaviour is covered by tests and PRs stay focused — one feature or fix per PR.
 ---
-
-## 📄 License
-
-This project is licensed under the **MIT License**. See the [LICENSE](./LICENSE) file for details.
-
+📄 License
+This project is licensed under the MIT License. See the LICENSE file for details.
 ---
-
-## 📬 Get in Touch
-
-I'm actively looking for junior .NET / full-stack opportunities and open to collaboration and feedback.
-
+📬 Get in Touch
+I'm actively seeking full-stack .NET developer roles and open to collaboration, feedback, and open-source contributions.
 <p>
   <a href="https://muhammedrizalnp.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-rizal.dev-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-rizal.dev-000000?style=flat&logo=vercel&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/muhammed-rizal/">
-    <img src="https://img.shields.io/badge/LinkedIn-Muhammed_Rizal-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://linkedin.com/in/muhammed-rizal/">
+    <img src="https://img.shields.io/badge/LinkedIn-Muhammed_Rizal-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
   <a href="mailto:mdrizalnp@gmail.com">
-    <img src="https://img.shields.io/badge/Email-mdrizalnp@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-mdrizalnp@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/risalsalu">
+    <img src="https://img.shields.io/badge/GitHub-risalsalu-181717?style=flat&logo=github&logoColor=white" />
   </a>
 </p>
-
 ---
-
 <p align="center">
-  <em>Open to feedback, collaboration, and junior .NET / full-stack opportunities! 🚀</em>
+  <em>Open to full-stack .NET opportunities, collaborations, and code reviews. Let's build something great. 🚀</em>
 </p>
