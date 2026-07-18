@@ -100,41 +100,6 @@ Salon & Spa Booking Platform with role-based access.
 
 React • ASP.NET Core • SQL Server • Dapper
 
----
-
-## 💰 Casmex
-
-Enterprise remittance and foreign exchange software.
-
-**Highlights**
-
-- Financial Transactions
-- Remittance Processing
-- Forex Operations
-- Enterprise Support
-
-**Stack**
-
-ASP.NET WebForms • Oracle Database • .NET Framework
-
----
-
-## 🛡️ iShield
-
-Anti Money Laundering compliance application.
-
-**Highlights**
-
-- AML Monitoring
-- Compliance Workflow
-- Financial Security
-
-**Stack**
-
-ASP.NET • Oracle Database
-
----
-
 # 🛠 Tech Stack
 
 ### Languages
