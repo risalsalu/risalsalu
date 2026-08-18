@@ -79,17 +79,20 @@ Agents · RAG · LLM Systems
 
 ---
 
+
 ## 📊 GitHub
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=risalsalu&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E&icon_color=9FEF00&rank_icon=github" />
+<img
+  src="https://github-readme-stats.vercel.app/api?username=risalsalu&show_icons=true&hide_border=true&theme=github_dark"
+  alt="GitHub Stats"
+/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=risalsalu&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E&icon_color=9FEF00" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=risalsalu&theme=github-dark-blue&hide_border=true&background=0D1117&ring=9FEF00&fire=9FEF00&currStreakLabel=FFFFFF" />
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=risalsalu&layout=compact&hide_border=true&theme=github_dark"
+  alt="Top Languages"
+/>
 
 </div>
 
