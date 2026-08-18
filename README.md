@@ -71,14 +71,6 @@
 
 </div>
 
----
-
-<div align="center">
-
-**BACKEND** &nbsp;•&nbsp; **ARCHITECTURE** &nbsp;•&nbsp; **FULL STACK** &nbsp;•&nbsp; **AI**
-
-</div>
-
 ## 📊 GitHub
 
 <div align="center">
