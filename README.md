@@ -79,56 +79,6 @@
 
 </div>
 
----
-
----
-
-## ⚡ Engineering Focus
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-### ⚙️
-
-**Backend Engineering**
-
-ASP.NET Core · APIs · Data
-
-</td>
-<td align="center" width="25%">
-
-### 🏗️
-
-**System Architecture**
-
-Clean Architecture · Microservices
-
-</td>
-<td align="center" width="25%">
-
-### 🎨
-
-**Full Stack**
-
-React · TypeScript · .NET
-
-</td>
-<td align="center" width="25%">
-
-### 🤖
-
-**AI Engineering**
-
-Agents · RAG · LLM Systems
-
-</td>
-</tr>
-</table>
-
----
-
-
 ## 📊 GitHub
 
 <div align="center">
