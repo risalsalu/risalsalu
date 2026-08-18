@@ -1,36 +1,85 @@
 <div align="center">
 
-# Muhammed Rizal N P
+<img
+  src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=190&section=header&text=MUHAMMED%20RIZAL%20N%20P&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=BACKEND%20%E2%80%A2%20ARCHITECTURE%20%E2%80%A2%20AI&descAlignY=62&descSize=16&descColor=9FEF00"
+  width="100%"
+  alt="Muhammed Rizal N P"
+/>
 
-### Backend-Focused Full Stack Developer
+<br/>
 
-**ASP.NET Core · Clean Architecture · React · Scalable Systems · AI Engineering**
+<img
+  src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=1200&color=9FEF00&center=true&vCenter=true&width=750&height=45&lines=Backend-Focused+Full+Stack+Developer;ASP.NET+Core+%7C+Clean+Architecture+%7C+React;Designing+Scalable+Software+Systems;Building+AI-Powered+Applications"
+  alt="Typing Animation"
+/>
 
-Building robust, secure and scalable software systems with a strong focus on backend engineering, architecture and AI-powered applications.
+<br/>
+
+<p>
+  <img
+    src="https://skillicons.dev/icons?i=cs,dotnet,react,ts,python,fastapi,postgres,docker,aws"
+    alt="Core Technologies"
+  />
+</p>
 
 <br/>
 
 <a href="https://muhammedrizalnp.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=9FEF00" alt="Portfolio"/>
 </a>
+&nbsp;
 <a href="https://github.com/risalsalu">
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=9FEF00" alt="GitHub"/>
 </a>
+&nbsp;
 <a href="https://www.linkedin.com/in/muhammed-rizal/">
-  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=9FEF00" alt="LinkedIn"/>
 </a>
+&nbsp;
 <a href="mailto:mdrizalnp@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=9FEF00" alt="Email"/>
 </a>
+&nbsp;
 <a href="https://muhammedrizalnp.vercel.app/Muhammed_Rizal_NP.pdf">
-  <img src="https://img.shields.io/badge/Resume-0D1117?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"/>
+  <img src="https://img.shields.io/badge/RESUME-0D1117?style=for-the-badge&logo=readthedocs&logoColor=9FEF00" alt="Resume"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=risalsalu&style=flat-square&color=9FEF00&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img
+  src="https://komarev.com/ghpvc/?username=risalsalu&style=for-the-badge&color=9FEF00&label=PROFILE+VIEWS"
+  alt="Profile Views"
+/>
 
 </div>
+
+---
+
+<div align="center">
+
+### ⚙️ BACKEND ENGINEERING
+`ASP.NET Core` · `C#` · `REST APIs` · `EF Core` · `Dapper`
+
+### 🏗️ SYSTEM ARCHITECTURE
+`Clean Architecture` · `SOLID` · `Microservices` · `Event-Driven`
+
+### 🎨 FULL STACK DEVELOPMENT
+`React` · `TypeScript` · `.NET` · `Tailwind`
+
+### 🤖 AI ENGINEERING
+`LLMs` · `AI Agents` · `RAG` · `Vector Search` · `AI Workflows`
+
+</div>
+
+---
+
+<div align="center">
+
+**BACKEND** &nbsp;•&nbsp; **ARCHITECTURE** &nbsp;•&nbsp; **FULL STACK** &nbsp;•&nbsp; **AI**
+
+</div>
+
+---
 
 ---
 
