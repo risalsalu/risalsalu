@@ -85,12 +85,12 @@ Agents · RAG · LLM Systems
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=risalsalu&show_icons=true&hide_border=true&theme=github_dark"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=risalsalu&theme=github_dark"
   alt="GitHub Stats"
 />
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=risalsalu&layout=compact&hide_border=true&theme=github_dark"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=risalsalu&theme=github_dark"
   alt="Top Languages"
 />
 
